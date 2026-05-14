@@ -3,7 +3,7 @@ import { ExternalLink, MessageCircle } from "lucide-react";
 
 const DEMO_URL = "https://pos-trees.netlify.app";
 const WA_URL =
-  "https://wa.me/5402646620954?text=%C2%A1Hola!%20Estuve%20viendo%20la%20web%20de%20TreesPOS%20y%20me%20gustar%C3%ADa%20agendar%20una%20demostraci%C3%B3n%20para%20mi%20negocio.%20%C2%BFMe%20podr%C3%ADan%20pasar%20m%C3%A1s%20info%3F";
+  "https://wa.me/5402644590545?text=%C2%A1Hola!%20Estuve%20viendo%20la%20web%20de%20TreesPOS%20y%20me%20gustar%C3%ADa%20agendar%20una%20demostraci%C3%B3n%20para%20mi%20negocio.%20%C2%BFMe%20podr%C3%ADan%20pasar%20m%C3%A1s%20info%3F";
 
 export default function CTASection() {
   return (
